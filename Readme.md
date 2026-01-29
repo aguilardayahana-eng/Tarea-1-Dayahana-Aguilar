@@ -1,14 +1,21 @@
-# Repositorio Tarea
+# 📌 Repositorio – Tarea
 
-## Mi Biografía
-1. Nombre Completo: [Dayahana Aguilar]
-2. Edad: [26 años] 
-3. Carrera: [Ing. Informatica] 
-## Hobbies
-- Escuchar música
-- Ver peliculas
+## 👤 Mi Biografía
 
-## Contacto
+**Nombre completo:** Dayahana Aguilar  
+**Edad:** 26 años  
+**Carrera:** Ingeniería Informática  
 
-- Tel: 88 88 88 88 
-- email: test@hotmail.com
+---
+
+## 🎯 Hobbies
+
+- 🎵 Escuchar música  
+- 🎬 Ver películas  
+
+---
+
+## 📞 Contacto
+
+- **Teléfono:** 88 88 88 88  
+- **Email:** test@hotmail.com  
