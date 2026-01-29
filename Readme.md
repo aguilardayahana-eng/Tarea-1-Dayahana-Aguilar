@@ -1,12 +1,14 @@
-# Mi Briografía
-** Nombre Completo: [Dayahana Aguilar]
-** Edad: [26 años] 
-** Carrera: [Ing. Informatica] 
-# Hobbies
- Escuchar música
- Ver peliculas
+# Repositorio Tarea
 
- # Contacto
+## Mi Biografía
+1. Nombre Completo: [Dayahana Aguilar]
+2. Edad: [26 años] 
+3. Carrera: [Ing. Informatica] 
+## Hobbies
+- Escuchar música
+- Ver peliculas
 
- Tel: 88 88 88 88 
- email: test@hotmail.com
+## Contacto
+
+- Tel: 88 88 88 88 
+- email: test@hotmail.com
